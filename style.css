@@ -1,0 +1,10 @@
+*{
+    background-color: green;
+}
+
+
+.recipe-list, .main-heading{
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
